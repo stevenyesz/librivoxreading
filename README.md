@@ -11,4 +11,4 @@ download the dmg, install on your MacOS then use it.
 
 * [download  macOS Apple Intel  ](https://github.com/stevenyesz/librivoxreading/releases/download/v1.0.0/shadowreading-1.0.0-x64.dmg)
 
-* [download windows x86 ] (https://github.com/stevenyesz/librivoxreading/releases/download/v1.0.0/shadowreading-1.0.0-setup.exe)
+* [download windows x86 ](https://github.com/stevenyesz/librivoxreading/releases/download/v1.0.0/shadowreading-1.0.0-setup.exe)
