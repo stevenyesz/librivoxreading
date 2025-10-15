@@ -2,6 +2,19 @@
 
 一个朗读工具，帮助你跟着librivox 有声书完成朗读练习
 
+![screenshot](librivoxreading.png)
+
+## quickstart
+
+download the dmg, install on your MacOS then use it.
+
+* [download  macOS Apple Silicon ](https://github.com/stevenyesz/librivoxreading/releases/download/v1.0.0/shadowreading-1.0.0-arm64.dmg)
+
+* [download  macOS Apple Intel  ](https://github.com/stevenyesz/librivoxreading/releases/download/v1.0.0/shadowreading-1.0.0-x64.dmg)
+
+* [download windows x86 ](https://github.com/stevenyesz/librivoxreading/releases/download/v1.0.0/shadowreading-1.0.0-setup.exe)
+
+
 ## 📁 Project Structure (Updated)
 
 ```
