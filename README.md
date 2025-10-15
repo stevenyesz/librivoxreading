@@ -1,14 +1,34 @@
-# librivoxreading
-a tool  help people  practice speaking  a language with  audio book from librivox.org
+# shadowreading
 
-![screenshot](librivoxreading.png)
+An Electron application with React and TypeScript
 
-## quickstart
+## Recommended IDE Setup
 
-download the dmg, install on your MacOS then use it.
+- [VSCode](https://code.visualstudio.com/) + [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) + [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
-* [download  macOS Apple Silicon ](https://github.com/stevenyesz/librivoxreading/releases/download/v1.0.0/shadowreading-1.0.0-arm64.dmg)
+## Project Setup
 
-* [download  macOS Apple Intel  ](https://github.com/stevenyesz/librivoxreading/releases/download/v1.0.0/shadowreading-1.0.0-x64.dmg)
+### Install
 
-* [download windows x86 ](https://github.com/stevenyesz/librivoxreading/releases/download/v1.0.0/shadowreading-1.0.0-setup.exe)
+```bash
+$ pnpm install
+```
+
+### Development
+
+```bash
+$ pnpm dev
+```
+
+### Build
+
+```bash
+# For windows
+$ pnpm build:win
+
+# For macOS
+$ pnpm build:mac
+
+# For Linux
+$ pnpm build:linux
+```
